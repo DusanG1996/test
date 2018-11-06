@@ -1,0 +1,51 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#hd{
+	font: 50pt Arial;
+	background:aqua;
+	height: 80px;
+	text-align: center;
+}
+ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	overflow:hidden;
+	background:yellow;
+}
+li{
+	width:20%;
+	float:left;
+}
+li a{
+	font: 18pt Arial;
+	text-align: center;
+	display:block;
+	padding:5px;
+	text-decoration: none;
+	background:yellow;
+
+	}
+li a:hover{
+	background:red;
+}
+form {
+	width:40%;
+	float:left;
+}
+
+#ct{
+	text-align: justify;
+	background: lightblue;
+	height:800px;
+	font: 15pt ;
+	font-family:Arial;
+}
+#ft{
+	background:aqua;
+	height:40px;
+	text-align:center;
+	font: 13pt Arial;
+}
